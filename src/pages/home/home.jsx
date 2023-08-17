@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Popular from './popular/popular'
+import Popular from './popular/Popular'
 import "./style.scss"
 
 import { HeroBanner } from './heroBanner/HeroBanner'
@@ -13,7 +13,7 @@ import TopRated from './topRated/TopRated'
 
 
 
-  const home = () => {
+  const Home = () => {
   return (
     <div className='homePage'>
 
@@ -24,4 +24,4 @@ import TopRated from './topRated/TopRated'
     </div>
   )
 }
-export default home
+export default Home
