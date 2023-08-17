@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Popular from './popular/Popular'
+import Popular from './popular/popular'
 import "./style.scss"
 
 import { HeroBanner } from './heroBanner/HeroBanner'
